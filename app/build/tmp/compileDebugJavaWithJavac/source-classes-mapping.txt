@@ -1,0 +1,17 @@
+com/codingwithme/notesapp/BuildConfig.java
+ com.codingwithme.notesapp.BuildConfig
+com/codingwithme/notesapp/database/NotesDatabase_Impl.java
+ com.codingwithme.notesapp.database.NotesDatabase_Impl
+ com.codingwithme.notesapp.database.NotesDatabase_Impl$1
+com/codingwithme/notesapp/dao/NoteDao_Impl.java
+ com.codingwithme.notesapp.dao.NoteDao_Impl
+ com.codingwithme.notesapp.dao.NoteDao_Impl$1
+ com.codingwithme.notesapp.dao.NoteDao_Impl$10
+ com.codingwithme.notesapp.dao.NoteDao_Impl$2
+ com.codingwithme.notesapp.dao.NoteDao_Impl$3
+ com.codingwithme.notesapp.dao.NoteDao_Impl$4
+ com.codingwithme.notesapp.dao.NoteDao_Impl$5
+ com.codingwithme.notesapp.dao.NoteDao_Impl$6
+ com.codingwithme.notesapp.dao.NoteDao_Impl$7
+ com.codingwithme.notesapp.dao.NoteDao_Impl$8
+ com.codingwithme.notesapp.dao.NoteDao_Impl$9

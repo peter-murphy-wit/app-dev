@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ramble</string>
+    <string name="notes">Ramble</string>
+    <string name="notes_title">Journal Title</string>
+    <string name="notes_sub_title">Journal Entry Sub Title</string>
+    <string name="notes_desc">Dear Journal, ...</string>
+    <string name="web_url">Enter Web Url</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Search journal entries</string>
+</resources>
